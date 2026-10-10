@@ -1,0 +1,20 @@
+# python environment
+.venv/
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# datasets
+/data/*
+!/data/README.md
+
+# models
+artifacts/
+
+# secrets
+.env
+
+# testing
+.pytest_cache/

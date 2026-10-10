@@ -1,0 +1,1 @@
+Raw dataset files are stored locally in data/raw/ and are not tracked by Git
